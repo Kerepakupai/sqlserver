@@ -1,0 +1,11 @@
+/Users/david/Projects/Core/CoreEscuela/bin/Debug/netcoreapp2.1/CoreEscuela.deps.json
+/Users/david/Projects/Core/CoreEscuela/bin/Debug/netcoreapp2.1/CoreEscuela.runtimeconfig.json
+/Users/david/Projects/Core/CoreEscuela/bin/Debug/netcoreapp2.1/CoreEscuela.runtimeconfig.dev.json
+/Users/david/Projects/Core/CoreEscuela/bin/Debug/netcoreapp2.1/CoreEscuela.dll
+/Users/david/Projects/Core/CoreEscuela/bin/Debug/netcoreapp2.1/CoreEscuela.pdb
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.csprojAssemblyReference.cache
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.csproj.CoreCompileInputs.cache
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.AssemblyInfoInputs.cache
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.AssemblyInfo.cs
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.dll
+/Users/david/Projects/Core/CoreEscuela/obj/Debug/netcoreapp2.1/CoreEscuela.pdb
